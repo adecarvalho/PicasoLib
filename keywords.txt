@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For PicasoSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PicasoSerial	KEYWORD1
+GraphicMessage	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+reset	KEYWORD2
+begin	KEYWORD2
+
+event	KEYWORD2
+objetId	KEYWORD2
+posiX	KEYWORD2
+posiY	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BUTTON_STATE_PRESSED	LITERAL1
+BUTTON_STATE_RELEASED	LITERAL1
+LED_STATE_ON	LITERAL1
+LED_STATE_OFF	LITERAL1
+SWITCHER_STATE_ON	LITERAL1
+SWITCHER_STATE_OFF	LITERAL1
+SLIDER_STATE_MOVE	LITERAL1
+SLIDER_STATE_RELEASED	LITERAL1
+SCALER_STATE_PRESSED_UP	LITERAL1
+SCALER_STATE_PRESSED_DOWN	LITERAL1
+SCALER_STATE_RELEASED	LITERAL1
+STATE_ON	LITERAL1
+STATE_OFF	LITERAL1
+
+FONT1	LITERAL1
+FONT2	LITERAL1
+FONT3	LITERAL1
+
+
+
+
